@@ -1,0 +1,35 @@
+Title: Live Performance Metrics
+Path: Project > Construction > Live Performance Metrics
+Node type: Workstream
+Parent: Construction
+
+Overview
+Tracks lagging and leading indicators so leadership can see safety performance and intervene quickly.
+
+Included topics
+- TRIR / DART Tracking
+- Open vs Closed Findings
+- Near Miss Trends
+- Leading Indicator Dashboard
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project safety manager
+- Project controls
+- Leadership team
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- TRIR / DART Tracking
+- Open vs Closed Findings
+- Near Miss Trends
+- Leading Indicator Dashboard

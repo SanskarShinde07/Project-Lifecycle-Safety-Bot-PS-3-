@@ -1,0 +1,33 @@
+Title: Asset Risk Index
+Path: Project > Maintenance > Lifecycle Safety Metrics > Asset Risk Index
+Node type: Topic / Deliverable
+Parent: Lifecycle Safety Metrics
+
+Overview
+Composite measure of asset safety risk based on condition, consequence, exposure, and control strength.
+
+Typical data / fields
+- asset or system
+- condition score
+- consequence score
+- exposure frequency
+- control effectiveness
+- index value and risk band
+
+Primary owners
+- Reliability engineer
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Maintenance Compliance %
+- Failure Frequency
+- Warranty Claim Trends

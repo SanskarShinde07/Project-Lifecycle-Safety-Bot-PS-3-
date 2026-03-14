@@ -1,0 +1,33 @@
+Title: Safety Budget Allocation
+Path: Project > Preconstruction > Preconstruction Safety Metrics > Safety Budget Allocation
+Node type: Topic / Deliverable
+Parent: Preconstruction Safety Metrics
+
+Overview
+Assigns funds to staffing, training, protective equipment, monitoring, and contingency safety needs.
+
+Typical data / fields
+- budget line item
+- planned amount
+- phase or cost code
+- justification
+- approved amount
+- forecast variance
+
+Primary owners
+- Preconstruction manager
+- Cost or controls manager
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Risk Register (Table)
+- Leading Indicator Forecast
+- Training Plan Matrix

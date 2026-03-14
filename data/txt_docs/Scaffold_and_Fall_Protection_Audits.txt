@@ -1,0 +1,33 @@
+Title: Scaffold & Fall Protection Audits
+Path: Project > Construction > Inspection & Compliance > Scaffold & Fall Protection Audits
+Node type: Topic / Deliverable
+Parent: Inspection & Compliance
+
+Overview
+Targeted audits of scaffolds, guardrails, anchors, harnesses, and tie-off practices.
+
+Typical data / fields
+- scaffold or area ID
+- auditor
+- compliance checkpoints
+- defects
+- out-of-service tag status
+- corrective action and reinspection date
+
+Primary owners
+- Project safety manager
+- Supervisors
+- Inspectors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Weekly Safety Inspections
+- Equipment Inspection Logs
+- Environmental Monitoring Logs

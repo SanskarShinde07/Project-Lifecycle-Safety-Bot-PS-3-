@@ -1,0 +1,35 @@
+Title: Preconstruction
+Path: Project > Preconstruction
+Node type: Lifecycle Phase
+Parent: Project
+
+Overview
+Early-phase planning used to identify hazards, qualify partners, and design safety into the work before mobilization.
+
+Included topics
+- Safety Planning & Strategy
+- Trade Partner Qualification
+- Design & Constructability Risk Review
+- Preconstruction Safety Metrics
+
+Typical data / fields
+- phase owner
+- phase objectives and entry criteria
+- key risks and assumptions
+- open actions and readiness status
+- linked workstream deliverables
+- phase review or gate date
+
+Primary owners
+- Preconstruction manager
+- Design manager
+- Project safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- Approved readiness plans
+- Qualified trade partner list
+- Design risk actions
+- Baseline safety metrics and budget

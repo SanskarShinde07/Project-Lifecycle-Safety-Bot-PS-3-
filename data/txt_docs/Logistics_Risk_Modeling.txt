@@ -1,0 +1,33 @@
+Title: Logistics Risk Modeling
+Path: Project > Preconstruction > Safety Planning & Strategy > Logistics Risk Modeling
+Node type: Topic / Deliverable
+Parent: Safety Planning & Strategy
+
+Overview
+Analyzes site access, deliveries, haul routes, laydown, crane paths, and pedestrian conflict points.
+
+Typical data / fields
+- site access and haul routes
+- delivery windows and staging rules
+- laydown zones and crane paths
+- pedestrian and vehicle separation points
+- congestion assumptions and peak periods
+- control actions for conflict points
+
+Primary owners
+- Project safety lead
+- Project manager
+- Superintendent
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed log entries
+- exception list
+- trend-ready data
+
+Related items
+- Site-Specific Safety Plan
+- Emergency Response Planning
+- Environmental Risk Assessment

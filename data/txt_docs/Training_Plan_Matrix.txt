@@ -1,0 +1,33 @@
+Title: Training Plan Matrix
+Path: Project > Preconstruction > Preconstruction Safety Metrics > Training Plan Matrix
+Node type: Topic / Deliverable
+Parent: Preconstruction Safety Metrics
+
+Overview
+Maps required safety training by role, trade, activity, and validity period.
+
+Typical data / fields
+- role or trade
+- course name
+- trigger for training
+- validity period
+- provider or trainer
+- completion status
+
+Primary owners
+- Preconstruction manager
+- Cost or controls manager
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Risk Register (Table)
+- Leading Indicator Forecast
+- Safety Budget Allocation

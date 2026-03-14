@@ -1,0 +1,33 @@
+Title: Commissioning Safety Records
+Path: Project > Closeout > Final Safety Verification > Commissioning Safety Records
+Node type: Topic / Deliverable
+Parent: Final Safety Verification
+
+Overview
+Maintains evidence that startup, testing, and commissioning were performed under safe controls.
+
+Typical data / fields
+- system
+- test activity
+- permits
+- isolations
+- participants
+- abnormal conditions and approvals
+
+Primary owners
+- Project manager
+- Commissioning lead
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Punch Safety Review
+- Demobilization Risk Plan
+- Final Inspection Reports

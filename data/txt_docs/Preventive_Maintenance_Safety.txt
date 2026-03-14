@@ -1,0 +1,35 @@
+Title: Preventive Maintenance Safety
+Path: Project > Maintenance > Preventive Maintenance Safety
+Node type: Workstream
+Parent: Maintenance
+
+Overview
+Governs routine maintenance tasks with isolation, permits, access control, and task-level hazard planning.
+
+Included topics
+- Lockout/Tagout (LOTO)
+- Permit to Work (Ops)
+- Access Control Logs
+- Maintenance JHA
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Maintenance supervisor
+- Operations supervisor
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Lockout/Tagout (LOTO)
+- Permit to Work (Ops)
+- Access Control Logs
+- Maintenance JHA

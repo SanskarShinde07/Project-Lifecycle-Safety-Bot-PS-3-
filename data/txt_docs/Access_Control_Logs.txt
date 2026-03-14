@@ -1,0 +1,33 @@
+Title: Access Control Logs
+Path: Project > Maintenance > Preventive Maintenance Safety > Access Control Logs
+Node type: Topic / Deliverable
+Parent: Preventive Maintenance Safety
+
+Overview
+Records who entered controlled areas, when, and under what authorization.
+
+Typical data / fields
+- date and time
+- person
+- controlled area
+- authorization type
+- escort requirement
+- access method and exit time
+
+Primary owners
+- Maintenance supervisor
+- Operations supervisor
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed log entries
+- exception list
+- trend-ready data
+
+Related items
+- Lockout/Tagout (LOTO)
+- Permit to Work (Ops)
+- Maintenance JHA

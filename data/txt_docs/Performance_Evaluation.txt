@@ -1,0 +1,35 @@
+Title: Performance Evaluation
+Path: Project > Closeout > Performance Evaluation
+Node type: Workstream
+Parent: Closeout
+
+Overview
+Summarizes project outcomes, analyzes trends, and documents improvement opportunities for future work.
+
+Included topics
+- Final Incident Summary
+- Safety Performance Scorecard
+- Root Cause Trend Analysis
+- Improvement Recommendations
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project executive
+- Safety director
+- Project manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- Final Incident Summary
+- Safety Performance Scorecard
+- Root Cause Trend Analysis
+- Improvement Recommendations

@@ -1,0 +1,33 @@
+Title: Electrical Systems
+Path: Project > Maintenance > Asset-Based Safety Controls > Electrical Systems
+Node type: Topic / Deliverable
+Parent: Asset-Based Safety Controls
+
+Overview
+Defines operational controls for electrical equipment, panels, arc flash exposure, and isolation boundaries.
+
+Typical data / fields
+- asset ID
+- voltage class
+- arc flash label data
+- isolation points
+- qualified person requirement
+- test interval and PPE category
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Mechanical Systems
+- Roof Access Systems
+- Confined Spaces

@@ -1,0 +1,33 @@
+Title: Root Cause Analysis
+Path: Project > Construction > Incident & Near-Miss Management > Root Cause Analysis
+Node type: Topic / Deliverable
+Parent: Incident & Near-Miss Management
+
+Overview
+Identifies underlying system causes rather than only immediate causes after an event or recurring finding.
+
+Typical data / fields
+- linked event ID
+- causal factors
+- root causes
+- evidence reviewed
+- analysis method
+- recommendations
+
+Primary owners
+- Project safety manager
+- Project leadership
+- Supervisors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Incident Reports
+- Corrective Action Plans
+- Lessons Learned Repository

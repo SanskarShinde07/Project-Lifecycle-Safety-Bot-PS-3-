@@ -1,0 +1,33 @@
+Title: Work at Height
+Path: Project > Construction > Activity-Based Risk Controls > Work at Height
+Node type: Topic / Deliverable
+Parent: Activity-Based Risk Controls
+
+Overview
+Controls elevated work through access selection, fall prevention/protection, rescue planning, and inspection.
+
+Typical data / fields
+- task area
+- height or exposure
+- access method
+- fall protection system
+- rescue plan
+- competent person inspection status
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Confined Space
+- Electrical Safety
+- Lifting & Rigging

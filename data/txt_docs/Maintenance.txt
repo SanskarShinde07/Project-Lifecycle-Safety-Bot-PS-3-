@@ -1,0 +1,36 @@
+Title: Maintenance
+Path: Project > Maintenance
+Node type: Lifecycle Phase
+Parent: Project
+
+Overview
+Operational phase that manages asset-specific hazards, routine service work, inspections, and long-term safety trends.
+
+Included topics
+- Asset-Based Safety Controls
+- Preventive Maintenance Safety
+- Inspection & Monitoring
+- Incident & Service Events
+- Lifecycle Safety Metrics
+
+Typical data / fields
+- phase owner
+- phase objectives and entry criteria
+- key risks and assumptions
+- open actions and readiness status
+- linked workstream deliverables
+- phase review or gate date
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Asset safety controls
+- Service-work permits and JHAs
+- Operational inspections
+- Lifecycle KPI trends

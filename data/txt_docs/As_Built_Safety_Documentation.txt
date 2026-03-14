@@ -1,0 +1,33 @@
+Title: As-Built Safety Documentation
+Path: Project > Closeout > Documentation & Archiving > As-Built Safety Documentation
+Node type: Topic / Deliverable
+Parent: Documentation & Archiving
+
+Overview
+Captures final safety-related documents reflecting installed conditions, labels, access points, and controls.
+
+Typical data / fields
+- document number
+- revision
+- system or area
+- as-built changes
+- approval history
+- archive location
+
+Primary owners
+- Document control lead
+- Project manager
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Warranty Safety Obligations
+- O&M Safety Manuals
+- Regulatory Closeout Submissions

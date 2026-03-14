@@ -1,0 +1,33 @@
+Title: Warranty Claim Trends
+Path: Project > Maintenance > Lifecycle Safety Metrics > Warranty Claim Trends
+Node type: Topic / Deliverable
+Parent: Lifecycle Safety Metrics
+
+Overview
+Trend analysis of warranty claims with safety relevance, recurrence, and vendor performance.
+
+Typical data / fields
+- period
+- claim count
+- system
+- failure mode
+- vendor
+- response time and recurrence trend
+
+Primary owners
+- Reliability engineer
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Asset Risk Index
+- Maintenance Compliance %
+- Failure Frequency

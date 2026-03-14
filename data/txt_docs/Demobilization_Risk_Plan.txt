@@ -1,0 +1,33 @@
+Title: Demobilization Risk Plan
+Path: Project > Closeout > Final Safety Verification > Demobilization Risk Plan
+Node type: Topic / Deliverable
+Parent: Final Safety Verification
+
+Overview
+Addresses hazards during teardown, temporary works removal, equipment off-hire, and workforce reduction.
+
+Typical data / fields
+- demobilization activity
+- sequence
+- hazards
+- controls
+- responsible party
+- schedule window and approvals
+
+Primary owners
+- Project manager
+- Commissioning lead
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Punch Safety Review
+- Final Inspection Reports
+- Commissioning Safety Records

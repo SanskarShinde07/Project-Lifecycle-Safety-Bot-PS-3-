@@ -1,0 +1,33 @@
+Title: Leading Indicator Dashboard
+Path: Project > Construction > Live Performance Metrics > Leading Indicator Dashboard
+Node type: Topic / Deliverable
+Parent: Live Performance Metrics
+
+Overview
+Visualizes proactive measures such as observations, inspections, training, and engagement activities.
+
+Typical data / fields
+- KPI name
+- target
+- actual
+- variance
+- rolling trend
+- owner and commentary
+
+Primary owners
+- Project safety manager
+- Project controls
+- Leadership team
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- TRIR / DART Tracking
+- Open vs Closed Findings
+- Near Miss Trends

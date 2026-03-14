@@ -1,0 +1,33 @@
+Title: Permit to Work
+Path: Project > Construction > Daily & Short-Term Planning > Permit to Work
+Node type: Topic / Deliverable
+Parent: Daily & Short-Term Planning
+
+Overview
+Provides formal authorization for high-risk construction activities when required conditions and approvals are met.
+
+Typical data / fields
+- permit type
+- location
+- scope
+- hazards
+- isolations or tests
+- issuing authority, start/end time, and closeout status
+
+Primary owners
+- Foremen
+- Superintendent
+- Safety coordinator
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Pre-Task Plans
+- Daily Huddles
+- Job Hazard Analysis (JHA)

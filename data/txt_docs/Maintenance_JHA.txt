@@ -1,0 +1,33 @@
+Title: Maintenance JHA
+Path: Project > Maintenance > Preventive Maintenance Safety > Maintenance JHA
+Node type: Topic / Deliverable
+Parent: Preventive Maintenance Safety
+
+Overview
+Task-level hazard analysis tailored to routine or corrective maintenance work.
+
+Typical data / fields
+- task steps
+- hazards
+- controls
+- tools
+- permits and isolations
+- crew acknowledgement and reviewer
+
+Primary owners
+- Maintenance supervisor
+- Operations supervisor
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Lockout/Tagout (LOTO)
+- Permit to Work (Ops)
+- Access Control Logs

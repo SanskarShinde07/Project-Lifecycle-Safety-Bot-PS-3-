@@ -1,0 +1,33 @@
+Title: Incident & Service Events
+Path: Project > Maintenance > Incident & Service Events
+Node type: Workstream
+Parent: Maintenance
+
+Overview
+Manages operational incidents, escalation of hazards, and follow-through of maintenance corrective actions.
+
+Included topics
+- Service Incident Reports
+- Hazard Escalation Logs
+- Maintenance CAP Tracking
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Maintenance manager
+- EHS lead
+- Operations manager
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Service Incident Reports
+- Hazard Escalation Logs
+- Maintenance CAP Tracking

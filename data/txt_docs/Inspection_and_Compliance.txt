@@ -1,0 +1,35 @@
+Title: Inspection & Compliance
+Path: Project > Construction > Inspection & Compliance
+Node type: Workstream
+Parent: Construction
+
+Overview
+Verifies that the site, equipment, and environmental conditions meet required standards through recurring inspections and logs.
+
+Included topics
+- Weekly Safety Inspections
+- Equipment Inspection Logs
+- Scaffold & Fall Protection Audits
+- Environmental Monitoring Logs
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project safety manager
+- Supervisors
+- Inspectors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- Weekly Safety Inspections
+- Equipment Inspection Logs
+- Scaffold & Fall Protection Audits
+- Environmental Monitoring Logs

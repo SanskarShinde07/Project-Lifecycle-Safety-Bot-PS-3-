@@ -1,0 +1,33 @@
+Title: Safety Prequalification Review
+Path: Project > Preconstruction > Trade Partner Qualification > Safety Prequalification Review
+Node type: Topic / Deliverable
+Parent: Trade Partner Qualification
+
+Overview
+Reviews a prospective trade partner's safety program, staffing, and training readiness before award.
+
+Typical data / fields
+- company profile
+- safety program elements
+- competent person coverage
+- training matrix
+- past citations or enforcement history
+- review score and approval status
+
+Primary owners
+- Procurement lead
+- Preconstruction manager
+- Safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- EMR & Incident History Review
+- Insurance & Compliance Verification
+- Corrective Action Review

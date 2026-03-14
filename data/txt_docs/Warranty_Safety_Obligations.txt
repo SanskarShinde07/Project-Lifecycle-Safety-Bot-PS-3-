@@ -1,0 +1,33 @@
+Title: Warranty Safety Obligations
+Path: Project > Closeout > Documentation & Archiving > Warranty Safety Obligations
+Node type: Topic / Deliverable
+Parent: Documentation & Archiving
+
+Overview
+Records safety-related duties that continue during warranty response and defect correction work.
+
+Typical data / fields
+- warranty item
+- vendor or trade
+- safety requirement
+- response time
+- access constraints
+- liability or escalation notes
+
+Primary owners
+- Document control lead
+- Project manager
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- As-Built Safety Documentation
+- O&M Safety Manuals
+- Regulatory Closeout Submissions

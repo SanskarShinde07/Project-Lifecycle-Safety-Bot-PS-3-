@@ -1,0 +1,33 @@
+Title: Lifting & Rigging
+Path: Project > Construction > Activity-Based Risk Controls > Lifting & Rigging
+Node type: Topic / Deliverable
+Parent: Activity-Based Risk Controls
+
+Overview
+Controls lifting operations, rigging selection, signaling, and load stability during field work.
+
+Typical data / fields
+- lift ID
+- load description
+- weight and center of gravity
+- rigging gear selection
+- lift plan approval
+- signal person and pre-lift check
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Work at Height
+- Confined Space
+- Electrical Safety

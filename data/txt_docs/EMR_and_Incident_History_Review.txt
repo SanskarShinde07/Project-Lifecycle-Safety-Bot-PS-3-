@@ -1,0 +1,33 @@
+Title: EMR & Incident History Review
+Path: Project > Preconstruction > Trade Partner Qualification > EMR & Incident History Review
+Node type: Topic / Deliverable
+Parent: Trade Partner Qualification
+
+Overview
+Checks Experience Modification Rate (EMR) and past incident performance to gauge loss history and stability.
+
+Typical data / fields
+- EMR values by year
+- OSHA or recordable case history
+- lost-time and DART results
+- claims trend narrative
+- benchmark comparison
+- reviewer comments
+
+Primary owners
+- Procurement lead
+- Preconstruction manager
+- Safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Safety Prequalification Review
+- Insurance & Compliance Verification
+- Corrective Action Review

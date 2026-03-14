@@ -1,0 +1,33 @@
+Title: Incident Reports
+Path: Project > Construction > Incident & Near-Miss Management > Incident Reports
+Node type: Topic / Deliverable
+Parent: Incident & Near-Miss Management
+
+Overview
+Formal records of injuries, property damage, environmental releases, or significant unwanted events.
+
+Typical data / fields
+- incident ID
+- date and time
+- location
+- people involved
+- event summary
+- classification and immediate actions
+
+Primary owners
+- Project safety manager
+- Project leadership
+- Supervisors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- final report or summary
+- supporting attachments
+- approval record
+
+Related items
+- Root Cause Analysis
+- Corrective Action Plans
+- Lessons Learned Repository

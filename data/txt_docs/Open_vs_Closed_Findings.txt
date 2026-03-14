@@ -1,0 +1,33 @@
+Title: Open vs Closed Findings
+Path: Project > Construction > Live Performance Metrics > Open vs Closed Findings
+Node type: Topic / Deliverable
+Parent: Live Performance Metrics
+
+Overview
+Measures backlog and closure performance for inspections, audits, and corrective actions.
+
+Typical data / fields
+- period
+- total findings
+- open count
+- closed count
+- aging buckets
+- closure rate and owner
+
+Primary owners
+- Project safety manager
+- Project controls
+- Leadership team
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- TRIR / DART Tracking
+- Near Miss Trends
+- Leading Indicator Dashboard

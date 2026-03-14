@@ -1,0 +1,33 @@
+Title: Punch Safety Review
+Path: Project > Closeout > Final Safety Verification > Punch Safety Review
+Node type: Topic / Deliverable
+Parent: Final Safety Verification
+
+Overview
+Verifies that remaining punch-list work can be completed safely with controls still in place.
+
+Typical data / fields
+- punch item
+- location
+- hazard
+- control measures
+- responsible trade
+- verification status and due date
+
+Primary owners
+- Project manager
+- Commissioning lead
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Demobilization Risk Plan
+- Final Inspection Reports
+- Commissioning Safety Records

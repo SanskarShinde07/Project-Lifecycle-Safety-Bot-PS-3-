@@ -1,0 +1,32 @@
+Title: Best Practice Capture
+Path: Project > Closeout > Knowledge Transfer > Best Practice Capture
+Node type: Topic / Deliverable
+Parent: Knowledge Transfer
+
+Overview
+Documents repeatable methods or controls that worked particularly well on the project.
+
+Typical data / fields
+- practice title
+- context
+- why it worked
+- prerequisites
+- supporting evidence
+- adoption recommendation
+
+Primary owners
+- Project executive
+- Safety director
+- Operational excellence team
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Lessons Learned Database
+- Closeout Safety Report (PDF)

@@ -1,0 +1,32 @@
+Title: Closeout Safety Report (PDF)
+Path: Project > Closeout > Knowledge Transfer > Closeout Safety Report (PDF)
+Node type: Topic / Deliverable
+Parent: Knowledge Transfer
+
+Overview
+Final narrative report summarizing the project's safety approach, results, lessons, and handover status.
+
+Typical data / fields
+- report version
+- executive summary
+- KPI tables
+- key events
+- lessons learned
+- appendices and approvals
+
+Primary owners
+- Project executive
+- Safety director
+- Operational excellence team
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- final report or summary
+- supporting attachments
+- approval record
+
+Related items
+- Lessons Learned Database
+- Best Practice Capture

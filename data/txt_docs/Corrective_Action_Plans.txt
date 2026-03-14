@@ -1,0 +1,33 @@
+Title: Corrective Action Plans
+Path: Project > Construction > Incident & Near-Miss Management > Corrective Action Plans
+Node type: Topic / Deliverable
+Parent: Incident & Near-Miss Management
+
+Overview
+Assigns structured actions to eliminate causes, track ownership, and prevent recurrence.
+
+Typical data / fields
+- CAP ID
+- linked finding
+- action description
+- owner
+- due date
+- priority, closure evidence, and effectiveness check
+
+Primary owners
+- Project safety manager
+- Project leadership
+- Supervisors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Incident Reports
+- Root Cause Analysis
+- Lessons Learned Repository

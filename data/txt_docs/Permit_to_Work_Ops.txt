@@ -1,0 +1,33 @@
+Title: Permit to Work (Ops)
+Path: Project > Maintenance > Preventive Maintenance Safety > Permit to Work (Ops)
+Node type: Topic / Deliverable
+Parent: Preventive Maintenance Safety
+
+Overview
+Operations-issued permit authorizing maintenance tasks under facility operating rules.
+
+Typical data / fields
+- permit number
+- work scope
+- area or system
+- isolations
+- gas test or readings
+- issuer/receiver, duration, and handback
+
+Primary owners
+- Maintenance supervisor
+- Operations supervisor
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Lockout/Tagout (LOTO)
+- Access Control Logs
+- Maintenance JHA

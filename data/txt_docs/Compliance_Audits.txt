@@ -1,0 +1,33 @@
+Title: Compliance Audits
+Path: Project > Maintenance > Inspection & Monitoring > Compliance Audits
+Node type: Topic / Deliverable
+Parent: Inspection & Monitoring
+
+Overview
+Planned audits against internal standards, regulations, and operating procedures.
+
+Typical data / fields
+- audit scope
+- standard or reference
+- auditor
+- findings
+- nonconformance level
+- corrective actions and closure date
+
+Primary owners
+- Maintenance supervisor
+- Reliability engineer
+- EHS coordinator
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Routine Safety Inspections
+- Equipment Testing Logs
+- Air Quality Monitoring

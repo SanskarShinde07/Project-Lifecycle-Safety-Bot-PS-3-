@@ -1,0 +1,35 @@
+Title: Daily & Short-Term Planning
+Path: Project > Construction > Daily & Short-Term Planning
+Node type: Workstream
+Parent: Construction
+
+Overview
+Translates the overall safety plan into daily work packages, briefings, hazard reviews, and permits.
+
+Included topics
+- Pre-Task Plans
+- Daily Huddles
+- Job Hazard Analysis (JHA)
+- Permit to Work
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Foremen
+- Superintendent
+- Safety coordinator
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- Pre-Task Plans
+- Daily Huddles
+- Job Hazard Analysis (JHA)
+- Permit to Work

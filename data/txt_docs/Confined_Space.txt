@@ -1,0 +1,33 @@
+Title: Confined Space
+Path: Project > Construction > Activity-Based Risk Controls > Confined Space
+Node type: Topic / Deliverable
+Parent: Activity-Based Risk Controls
+
+Overview
+Controls entry into permit-required or non-permit confined spaces with isolation, monitoring, and rescue readiness.
+
+Typical data / fields
+- space ID
+- classification
+- hazards present
+- atmospheric monitoring results
+- isolation status
+- entrants, attendant, and permit state
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Work at Height
+- Electrical Safety
+- Lifting & Rigging

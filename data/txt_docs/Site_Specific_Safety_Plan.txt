@@ -1,0 +1,33 @@
+Title: Site-Specific Safety Plan
+Path: Project > Preconstruction > Safety Planning & Strategy > Site-Specific Safety Plan
+Node type: Topic / Deliverable
+Parent: Safety Planning & Strategy
+
+Overview
+Defines project-specific rules, roles, hazard controls, emergency contacts, and procedures for the site.
+
+Typical data / fields
+- project name and location
+- revision number and approval date
+- safety organization and contact list
+- site rules, PPE requirements, and restricted areas
+- high-risk work controls and permit rules
+- emergency information and muster details
+
+Primary owners
+- Project safety lead
+- Project manager
+- Superintendent
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Emergency Response Planning
+- Environmental Risk Assessment
+- Logistics Risk Modeling

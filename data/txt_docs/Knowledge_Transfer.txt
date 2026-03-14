@@ -1,0 +1,33 @@
+Title: Knowledge Transfer
+Path: Project > Closeout > Knowledge Transfer
+Node type: Workstream
+Parent: Closeout
+
+Overview
+Converts project experience into reusable lessons, best practices, and a final closeout safety report.
+
+Included topics
+- Lessons Learned Database
+- Best Practice Capture
+- Closeout Safety Report (PDF)
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project executive
+- Safety director
+- Operational excellence team
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- Lessons Learned Database
+- Best Practice Capture
+- Closeout Safety Report (PDF)

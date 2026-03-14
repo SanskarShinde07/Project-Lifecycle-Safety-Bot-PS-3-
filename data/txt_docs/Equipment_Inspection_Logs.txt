@@ -1,0 +1,33 @@
+Title: Equipment Inspection Logs
+Path: Project > Construction > Inspection & Compliance > Equipment Inspection Logs
+Node type: Topic / Deliverable
+Parent: Inspection & Compliance
+
+Overview
+Records the condition and readiness of tools, mobile equipment, and critical safety devices.
+
+Typical data / fields
+- equipment ID
+- inspection date
+- inspector
+- condition items
+- defects
+- tag status and repair action
+
+Primary owners
+- Project safety manager
+- Supervisors
+- Inspectors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed log entries
+- exception list
+- trend-ready data
+
+Related items
+- Weekly Safety Inspections
+- Scaffold & Fall Protection Audits
+- Environmental Monitoring Logs

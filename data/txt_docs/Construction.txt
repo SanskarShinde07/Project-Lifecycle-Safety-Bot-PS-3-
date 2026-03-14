@@ -1,0 +1,36 @@
+Title: Construction
+Path: Project > Construction
+Node type: Lifecycle Phase
+Parent: Project
+
+Overview
+Field execution phase where work is performed, controlled, inspected, investigated, and measured in real time.
+
+Included topics
+- Activity-Based Risk Controls
+- Daily & Short-Term Planning
+- Inspection & Compliance
+- Incident & Near-Miss Management
+- Live Performance Metrics
+
+Typical data / fields
+- phase owner
+- phase objectives and entry criteria
+- key risks and assumptions
+- open actions and readiness status
+- linked workstream deliverables
+- phase review or gate date
+
+Primary owners
+- Project manager
+- Superintendent
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- Field control records
+- Inspection logs
+- Incident investigations
+- Live KPI dashboards

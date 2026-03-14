@@ -1,0 +1,32 @@
+Title: Hazard Escalation Logs
+Path: Project > Maintenance > Incident & Service Events > Hazard Escalation Logs
+Node type: Topic / Deliverable
+Parent: Incident & Service Events
+
+Overview
+Tracks hazards that were identified in maintenance and escalated for higher-level decision or shutdown.
+
+Typical data / fields
+- hazard ID
+- date raised
+- description
+- risk level
+- escalation path
+- interim controls and resolution status
+
+Primary owners
+- Maintenance manager
+- EHS lead
+- Operations manager
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed log entries
+- exception list
+- trend-ready data
+
+Related items
+- Service Incident Reports
+- Maintenance CAP Tracking

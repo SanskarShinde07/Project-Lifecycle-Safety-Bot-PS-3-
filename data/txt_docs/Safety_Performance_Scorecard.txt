@@ -1,0 +1,33 @@
+Title: Safety Performance Scorecard
+Path: Project > Closeout > Performance Evaluation > Safety Performance Scorecard
+Node type: Topic / Deliverable
+Parent: Performance Evaluation
+
+Overview
+Summarizes end-of-project safety performance across metrics, audits, and qualitative indicators.
+
+Typical data / fields
+- metric
+- target
+- actual
+- weight
+- score
+- commentary and overall rating
+
+Primary owners
+- Project executive
+- Safety director
+- Project manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Final Incident Summary
+- Root Cause Trend Analysis
+- Improvement Recommendations

@@ -1,0 +1,33 @@
+Title: High-Risk Scope Identification
+Path: Project > Preconstruction > Design & Constructability Risk Review > High-Risk Scope Identification
+Node type: Topic / Deliverable
+Parent: Design & Constructability Risk Review
+
+Overview
+Pinpoints scopes with high energy, severe consequence potential, complex sequencing, or simultaneous operations.
+
+Typical data / fields
+- scope item
+- hazard type
+- trigger conditions
+- inherent risk rating
+- planned controls
+- responsible party and review date
+
+Primary owners
+- Design manager
+- Operations representative
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Temporary Works Risk Planning
+- Crane & Hoisting Strategy
+- Hazard Elimination Workshops

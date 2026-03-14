@@ -1,0 +1,33 @@
+Title: Electrical Safety
+Path: Project > Construction > Activity-Based Risk Controls > Electrical Safety
+Node type: Topic / Deliverable
+Parent: Activity-Based Risk Controls
+
+Overview
+Manages energized work risk, arc flash boundaries, lockout needs, and equipment condition in the field.
+
+Typical data / fields
+- equipment ID
+- voltage or energy level
+- arc flash or shock boundary
+- lockout points
+- qualified persons
+- test and authorization results
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Work at Height
+- Confined Space
+- Lifting & Rigging

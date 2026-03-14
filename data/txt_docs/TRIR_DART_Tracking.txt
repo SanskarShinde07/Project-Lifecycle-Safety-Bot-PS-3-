@@ -1,0 +1,33 @@
+Title: TRIR / DART Tracking
+Path: Project > Construction > Live Performance Metrics > TRIR / DART Tracking
+Node type: Topic / Deliverable
+Parent: Live Performance Metrics
+
+Overview
+Monitors Total Recordable Incident Rate (TRIR) and Days Away, Restricted, or Transferred (DART) rate over time.
+
+Typical data / fields
+- reporting period
+- hours worked
+- recordable cases
+- DART cases
+- calculated rates
+- target and trend
+
+Primary owners
+- Project safety manager
+- Project controls
+- Leadership team
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Open vs Closed Findings
+- Near Miss Trends
+- Leading Indicator Dashboard

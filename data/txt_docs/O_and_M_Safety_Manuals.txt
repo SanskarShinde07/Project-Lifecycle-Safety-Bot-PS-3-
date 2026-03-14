@@ -1,0 +1,33 @@
+Title: O&M Safety Manuals
+Path: Project > Closeout > Documentation & Archiving > O&M Safety Manuals
+Node type: Topic / Deliverable
+Parent: Documentation & Archiving
+
+Overview
+Operations and maintenance manuals with safe procedures, hazards, and maintenance controls for installed systems.
+
+Typical data / fields
+- asset or system
+- manual revision
+- hazard warnings
+- safe procedure steps
+- required PPE or tools
+- maintenance intervals
+
+Primary owners
+- Document control lead
+- Project manager
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- approved manual
+- revision control record
+- training or distribution evidence
+
+Related items
+- As-Built Safety Documentation
+- Warranty Safety Obligations
+- Regulatory Closeout Submissions

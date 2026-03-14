@@ -1,0 +1,33 @@
+Title: Root Cause Trend Analysis
+Path: Project > Closeout > Performance Evaluation > Root Cause Trend Analysis
+Node type: Topic / Deliverable
+Parent: Performance Evaluation
+
+Overview
+Aggregates repeated causal themes across incidents and findings to show systemic patterns.
+
+Typical data / fields
+- cause category
+- frequency
+- source events
+- trend direction
+- high-risk patterns
+- recommended action
+
+Primary owners
+- Project executive
+- Safety director
+- Project manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Final Incident Summary
+- Safety Performance Scorecard
+- Improvement Recommendations

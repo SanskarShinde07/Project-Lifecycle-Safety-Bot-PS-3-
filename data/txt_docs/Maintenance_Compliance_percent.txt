@@ -1,0 +1,33 @@
+Title: Maintenance Compliance %
+Path: Project > Maintenance > Lifecycle Safety Metrics > Maintenance Compliance %
+Node type: Topic / Deliverable
+Parent: Lifecycle Safety Metrics
+
+Overview
+Percentage of required maintenance tasks completed on time and to standard.
+
+Typical data / fields
+- period
+- scheduled tasks
+- completed tasks
+- overdue tasks
+- compliance percentage
+- exception notes
+
+Primary owners
+- Reliability engineer
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Asset Risk Index
+- Failure Frequency
+- Warranty Claim Trends

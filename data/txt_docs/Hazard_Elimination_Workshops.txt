@@ -1,0 +1,33 @@
+Title: Hazard Elimination Workshops
+Path: Project > Preconstruction > Design & Constructability Risk Review > Hazard Elimination Workshops
+Node type: Topic / Deliverable
+Parent: Design & Constructability Risk Review
+
+Overview
+Facilitates workshops to remove or reduce hazards through design changes, sequencing, or prefabrication.
+
+Typical data / fields
+- workshop date
+- participants
+- hazards reviewed
+- elimination or substitution ideas
+- decisions made
+- follow-up actions and status
+
+Primary owners
+- Design manager
+- Operations representative
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- High-Risk Scope Identification
+- Temporary Works Risk Planning
+- Crane & Hoisting Strategy

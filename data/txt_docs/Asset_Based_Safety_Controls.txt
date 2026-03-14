@@ -1,0 +1,35 @@
+Title: Asset-Based Safety Controls
+Path: Project > Maintenance > Asset-Based Safety Controls
+Node type: Workstream
+Parent: Maintenance
+
+Overview
+Defines hazard controls tied to installed systems and spaces that must be serviced during operations.
+
+Included topics
+- Mechanical Systems
+- Electrical Systems
+- Roof Access Systems
+- Confined Spaces
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Mechanical Systems
+- Electrical Systems
+- Roof Access Systems
+- Confined Spaces

@@ -1,0 +1,33 @@
+Title: Air Quality Monitoring
+Path: Project > Maintenance > Inspection & Monitoring > Air Quality Monitoring
+Node type: Topic / Deliverable
+Parent: Inspection & Monitoring
+
+Overview
+Checks oxygen, flammables, toxics, dust, or ventilation effectiveness in occupied or work areas.
+
+Typical data / fields
+- parameter
+- instrument ID
+- location
+- reading
+- exposure limit
+- alarm or action and sample time
+
+Primary owners
+- Maintenance supervisor
+- Reliability engineer
+- EHS coordinator
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Routine Safety Inspections
+- Equipment Testing Logs
+- Compliance Audits

@@ -1,0 +1,35 @@
+Title: Inspection & Monitoring
+Path: Project > Maintenance > Inspection & Monitoring
+Node type: Workstream
+Parent: Maintenance
+
+Overview
+Maintains routine checks, testing, air monitoring, and audit records for the operating asset.
+
+Included topics
+- Routine Safety Inspections
+- Equipment Testing Logs
+- Air Quality Monitoring
+- Compliance Audits
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Maintenance supervisor
+- Reliability engineer
+- EHS coordinator
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Routine Safety Inspections
+- Equipment Testing Logs
+- Air Quality Monitoring
+- Compliance Audits

@@ -1,0 +1,33 @@
+Title: Mechanical Systems
+Path: Project > Maintenance > Asset-Based Safety Controls > Mechanical Systems
+Node type: Topic / Deliverable
+Parent: Asset-Based Safety Controls
+
+Overview
+Defines safe operating and maintenance controls for rotating, pressurized, thermal, and fluid-handling systems.
+
+Typical data / fields
+- asset ID
+- hazard type
+- isolation points
+- guarding status
+- stored energy
+- maintenance precautions and inspection criteria
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Electrical Systems
+- Roof Access Systems
+- Confined Spaces

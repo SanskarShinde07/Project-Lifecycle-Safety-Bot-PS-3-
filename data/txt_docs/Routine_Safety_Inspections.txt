@@ -1,0 +1,33 @@
+Title: Routine Safety Inspections
+Path: Project > Maintenance > Inspection & Monitoring > Routine Safety Inspections
+Node type: Topic / Deliverable
+Parent: Inspection & Monitoring
+
+Overview
+Scheduled operational inspections of plant areas, housekeeping, signage, and safety equipment.
+
+Typical data / fields
+- inspection date
+- route or area
+- inspector
+- findings
+- condition rating
+- action required and closeout
+
+Primary owners
+- Maintenance supervisor
+- Reliability engineer
+- EHS coordinator
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Equipment Testing Logs
+- Air Quality Monitoring
+- Compliance Audits

@@ -1,0 +1,33 @@
+Title: Emergency Response Planning
+Path: Project > Preconstruction > Safety Planning & Strategy > Emergency Response Planning
+Node type: Topic / Deliverable
+Parent: Safety Planning & Strategy
+
+Overview
+Defines alarms, contacts, routes, resources, medical response, drills, and recovery steps for emergencies.
+
+Typical data / fields
+- credible emergency scenarios
+- response roles and contact list
+- nearest medical and public emergency resources
+- alarms, routes, and muster points
+- drill schedule and lessons learned
+- emergency equipment inventory
+
+Primary owners
+- Project safety lead
+- Project manager
+- Superintendent
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Site-Specific Safety Plan
+- Environmental Risk Assessment
+- Logistics Risk Modeling

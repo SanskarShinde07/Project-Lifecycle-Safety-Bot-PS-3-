@@ -1,0 +1,33 @@
+Title: Roof Access Systems
+Path: Project > Maintenance > Asset-Based Safety Controls > Roof Access Systems
+Node type: Topic / Deliverable
+Parent: Asset-Based Safety Controls
+
+Overview
+Controls ladders, hatches, anchors, walkways, and edge protection used during roof access work.
+
+Typical data / fields
+- access point ID
+- fall hazards
+- anchor certification
+- inspection date
+- permitted users
+- rescue considerations
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Mechanical Systems
+- Electrical Systems
+- Confined Spaces

@@ -1,0 +1,32 @@
+Title: Maintenance CAP Tracking
+Path: Project > Maintenance > Incident & Service Events > Maintenance CAP Tracking
+Node type: Topic / Deliverable
+Parent: Incident & Service Events
+
+Overview
+Follows corrective actions created from maintenance incidents, audits, or inspections.
+
+Typical data / fields
+- CAP ID
+- source
+- action
+- owner
+- due date
+- priority, closure evidence, and effectiveness review
+
+Primary owners
+- Maintenance manager
+- EHS lead
+- Operations manager
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Service Incident Reports
+- Hazard Escalation Logs

@@ -1,0 +1,35 @@
+Title: Trade Partner Qualification
+Path: Project > Preconstruction > Trade Partner Qualification
+Node type: Workstream
+Parent: Preconstruction
+
+Overview
+Screens contractors and suppliers to confirm they can meet project safety, insurance, and compliance requirements.
+
+Included topics
+- Safety Prequalification Review
+- EMR & Incident History Review
+- Insurance & Compliance Verification
+- Corrective Action Review
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Procurement lead
+- Preconstruction manager
+- Safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- Safety Prequalification Review
+- EMR & Incident History Review
+- Insurance & Compliance Verification
+- Corrective Action Review

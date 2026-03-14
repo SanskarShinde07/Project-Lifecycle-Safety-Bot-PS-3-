@@ -1,0 +1,33 @@
+Title: Lessons Learned Repository
+Path: Project > Construction > Incident & Near-Miss Management > Lessons Learned Repository
+Node type: Topic / Deliverable
+Parent: Incident & Near-Miss Management
+
+Overview
+Stores validated lessons from incidents, audits, and successful controls for future use.
+
+Typical data / fields
+- lesson ID
+- source event or audit
+- summary
+- applicable scopes
+- recommended practice
+- distribution or approval status
+
+Primary owners
+- Project safety manager
+- Project leadership
+- Supervisors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- searchable entries
+- tagged records
+- periodic review log
+
+Related items
+- Incident Reports
+- Root Cause Analysis
+- Corrective Action Plans

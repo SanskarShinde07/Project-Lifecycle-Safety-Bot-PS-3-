@@ -1,0 +1,33 @@
+Title: Daily Huddles
+Path: Project > Construction > Daily & Short-Term Planning > Daily Huddles
+Node type: Topic / Deliverable
+Parent: Daily & Short-Term Planning
+
+Overview
+Brief shift-start meetings that align the crew on work plan, changing conditions, and critical controls.
+
+Typical data / fields
+- date and shift
+- attendees
+- planned work
+- top risks
+- weather or site changes
+- action items
+
+Primary owners
+- Foremen
+- Superintendent
+- Safety coordinator
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Pre-Task Plans
+- Job Hazard Analysis (JHA)
+- Permit to Work

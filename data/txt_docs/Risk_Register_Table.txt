@@ -1,0 +1,33 @@
+Title: Risk Register (Table)
+Path: Project > Preconstruction > Preconstruction Safety Metrics > Risk Register (Table)
+Node type: Topic / Deliverable
+Parent: Preconstruction Safety Metrics
+
+Overview
+Consolidates identified safety risks, ratings, owners, controls, and follow-up actions before work starts.
+
+Typical data / fields
+- risk ID
+- description
+- cause
+- consequence
+- inherent rating
+- controls, owner, and residual rating
+
+Primary owners
+- Preconstruction manager
+- Cost or controls manager
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Leading Indicator Forecast
+- Safety Budget Allocation
+- Training Plan Matrix

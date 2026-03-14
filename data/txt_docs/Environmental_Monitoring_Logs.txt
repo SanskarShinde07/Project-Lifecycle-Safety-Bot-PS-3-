@@ -1,0 +1,33 @@
+Title: Environmental Monitoring Logs
+Path: Project > Construction > Inspection & Compliance > Environmental Monitoring Logs
+Node type: Topic / Deliverable
+Parent: Inspection & Compliance
+
+Overview
+Captures environmental readings and checks such as dust, noise, water, and waste controls.
+
+Typical data / fields
+- parameter monitored
+- date and time
+- location
+- reading or result
+- threshold or limit
+- corrective action and follow-up
+
+Primary owners
+- Project safety manager
+- Supervisors
+- Inspectors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed log entries
+- exception list
+- trend-ready data
+
+Related items
+- Weekly Safety Inspections
+- Equipment Inspection Logs
+- Scaffold & Fall Protection Audits

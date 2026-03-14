@@ -1,0 +1,33 @@
+Title: Corrective Action Review
+Path: Project > Preconstruction > Trade Partner Qualification > Corrective Action Review
+Node type: Topic / Deliverable
+Parent: Trade Partner Qualification
+
+Overview
+Reviews unresolved findings and prior corrective actions to confirm recurring issues are being addressed.
+
+Typical data / fields
+- prior finding or CAP ID
+- issue summary
+- root cause or theme
+- action owner
+- due date
+- closure evidence and reopen status
+
+Primary owners
+- Procurement lead
+- Preconstruction manager
+- Safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Safety Prequalification Review
+- EMR & Incident History Review
+- Insurance & Compliance Verification

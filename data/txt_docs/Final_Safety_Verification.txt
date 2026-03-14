@@ -1,0 +1,35 @@
+Title: Final Safety Verification
+Path: Project > Closeout > Final Safety Verification
+Node type: Workstream
+Parent: Closeout
+
+Overview
+Confirms remaining work, demobilization, testing, and commissioning are completed safely before turnover.
+
+Included topics
+- Punch Safety Review
+- Demobilization Risk Plan
+- Final Inspection Reports
+- Commissioning Safety Records
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project manager
+- Commissioning lead
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- Punch Safety Review
+- Demobilization Risk Plan
+- Final Inspection Reports
+- Commissioning Safety Records

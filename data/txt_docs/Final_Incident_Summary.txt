@@ -1,0 +1,33 @@
+Title: Final Incident Summary
+Path: Project > Closeout > Performance Evaluation > Final Incident Summary
+Node type: Topic / Deliverable
+Parent: Performance Evaluation
+
+Overview
+Consolidates project incidents, classifications, and notable trends at completion.
+
+Typical data / fields
+- total incidents
+- classifications
+- lost-time days
+- severe potential cases
+- trend observations
+- summary date
+
+Primary owners
+- Project executive
+- Safety director
+- Project manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- final report or summary
+- supporting attachments
+- approval record
+
+Related items
+- Safety Performance Scorecard
+- Root Cause Trend Analysis
+- Improvement Recommendations

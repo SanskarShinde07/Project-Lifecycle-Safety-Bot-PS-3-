@@ -1,0 +1,33 @@
+Title: Near Miss Trends
+Path: Project > Construction > Live Performance Metrics > Near Miss Trends
+Node type: Topic / Deliverable
+Parent: Live Performance Metrics
+
+Overview
+Analyzes near-miss frequency, type, location, and severity potential to target prevention.
+
+Typical data / fields
+- period
+- near-miss count
+- category
+- location
+- potential severity
+- trend direction and action theme
+
+Primary owners
+- Project safety manager
+- Project controls
+- Leadership team
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- TRIR / DART Tracking
+- Open vs Closed Findings
+- Leading Indicator Dashboard

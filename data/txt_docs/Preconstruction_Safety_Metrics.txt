@@ -1,0 +1,35 @@
+Title: Preconstruction Safety Metrics
+Path: Project > Preconstruction > Preconstruction Safety Metrics
+Node type: Workstream
+Parent: Preconstruction
+
+Overview
+Sets the baseline measures, budget, and training plan used to track readiness before work starts.
+
+Included topics
+- Risk Register (Table)
+- Leading Indicator Forecast
+- Safety Budget Allocation
+- Training Plan Matrix
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Preconstruction manager
+- Cost or controls manager
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- Risk Register (Table)
+- Leading Indicator Forecast
+- Safety Budget Allocation
+- Training Plan Matrix

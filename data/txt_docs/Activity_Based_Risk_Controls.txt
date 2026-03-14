@@ -1,0 +1,37 @@
+Title: Activity-Based Risk Controls
+Path: Project > Construction > Activity-Based Risk Controls
+Node type: Workstream
+Parent: Construction
+
+Overview
+Applies focused controls to the highest-risk field activities such as height, electrical, lifting, and excavation work.
+
+Included topics
+- Work at Height
+- Confined Space
+- Electrical Safety
+- Lifting & Rigging
+- Excavation & Ground Disturbance
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- Work at Height
+- Confined Space
+- Electrical Safety
+- Lifting & Rigging
+- Excavation & Ground Disturbance

@@ -1,0 +1,33 @@
+Title: Environmental Risk Assessment
+Path: Project > Preconstruction > Safety Planning & Strategy > Environmental Risk Assessment
+Node type: Topic / Deliverable
+Parent: Safety Planning & Strategy
+
+Overview
+Evaluates potential impacts to air, water, soil, waste, noise, and nearby receptors before work begins.
+
+Typical data / fields
+- environmental aspect and impact register
+- sensitive receptors and site constraints
+- permits and applicable limits
+- control and mitigation measures
+- spill response and waste strategy
+- residual risk rating
+
+Primary owners
+- Project safety lead
+- Project manager
+- Superintendent
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Site-Specific Safety Plan
+- Emergency Response Planning
+- Logistics Risk Modeling

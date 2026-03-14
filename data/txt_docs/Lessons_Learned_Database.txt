@@ -1,0 +1,32 @@
+Title: Lessons Learned Database
+Path: Project > Closeout > Knowledge Transfer > Lessons Learned Database
+Node type: Topic / Deliverable
+Parent: Knowledge Transfer
+
+Overview
+Structured closeout database of approved lessons available to future bidding and execution teams.
+
+Typical data / fields
+- lesson ID
+- project phase
+- description
+- category
+- applicability
+- owner and approval date
+
+Primary owners
+- Project executive
+- Safety director
+- Operational excellence team
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- searchable entries
+- tagged records
+- periodic review log
+
+Related items
+- Best Practice Capture
+- Closeout Safety Report (PDF)

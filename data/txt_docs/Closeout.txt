@@ -1,0 +1,35 @@
+Title: Closeout
+Path: Project > Closeout
+Node type: Lifecycle Phase
+Parent: Project
+
+Overview
+Final phase that verifies safe completion, archives records, evaluates performance, and transfers knowledge for future projects.
+
+Included topics
+- Final Safety Verification
+- Documentation & Archiving
+- Performance Evaluation
+- Knowledge Transfer
+
+Typical data / fields
+- phase owner
+- phase objectives and entry criteria
+- key risks and assumptions
+- open actions and readiness status
+- linked workstream deliverables
+- phase review or gate date
+
+Primary owners
+- Project manager
+- Commissioning lead
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- Final verification records
+- Archived handover documents
+- Performance evaluation outputs
+- Closeout report and lessons

@@ -1,0 +1,33 @@
+Title: Excavation & Ground Disturbance
+Path: Project > Construction > Activity-Based Risk Controls > Excavation & Ground Disturbance
+Node type: Topic / Deliverable
+Parent: Activity-Based Risk Controls
+
+Overview
+Controls trenching, buried utilities, soil stability, access, and spoil placement during ground disturbance.
+
+Typical data / fields
+- location
+- depth
+- utility clearance status
+- soil type
+- protective system
+- competent person inspection and permit number
+
+Primary owners
+- Superintendent
+- Foremen
+- Project safety manager
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Work at Height
+- Confined Space
+- Electrical Safety

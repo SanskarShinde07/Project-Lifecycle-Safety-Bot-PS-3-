@@ -1,0 +1,34 @@
+Title: Project
+Path: Project
+Node type: Program
+
+Overview
+Lifecycle safety governance structure covering planning, execution, turnover, and ongoing asset operations.
+
+Included topics
+- Preconstruction
+- Construction
+- Closeout
+- Maintenance
+
+Typical data / fields
+- overall owner and governance roles
+- lifecycle phase status
+- key risks and escalations
+- portfolio-level KPIs
+- major deliverables and decision gates
+- continuous improvement actions
+
+Primary owners
+- Project sponsor
+- Project executive
+- Safety leadership team
+
+When it is used or reviewed
+Governed throughout the full asset lifecycle, with phase-gate reviews and periodic executive oversight.
+
+Common outputs / evidence
+- Integrated lifecycle safety structure
+- Phase-level plans and records
+- Governance decisions
+- Continuous improvement actions

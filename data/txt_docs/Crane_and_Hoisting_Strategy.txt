@@ -1,0 +1,33 @@
+Title: Crane & Hoisting Strategy
+Path: Project > Preconstruction > Design & Constructability Risk Review > Crane & Hoisting Strategy
+Node type: Topic / Deliverable
+Parent: Design & Constructability Risk Review
+
+Overview
+Defines lifting plans, crane selection, load paths, pick zones, and coordination rules for hoisting work.
+
+Typical data / fields
+- crane type and capacity
+- critical picks
+- load weights and radii
+- rigging plans
+- pick paths and exclusion zones
+- operator or rigger qualification status
+
+Primary owners
+- Design manager
+- Operations representative
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- High-Risk Scope Identification
+- Temporary Works Risk Planning
+- Hazard Elimination Workshops

@@ -1,0 +1,33 @@
+Title: Leading Indicator Forecast
+Path: Project > Preconstruction > Preconstruction Safety Metrics > Leading Indicator Forecast
+Node type: Topic / Deliverable
+Parent: Preconstruction Safety Metrics
+
+Overview
+Predicts proactive safety activities such as inspections, training, observations, and engagement efforts.
+
+Typical data / fields
+- indicator name
+- baseline
+- forecast quantity
+- target period
+- owner
+- assumptions and variance notes
+
+Primary owners
+- Preconstruction manager
+- Cost or controls manager
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- KPI summary
+- trend view
+- management review notes
+
+Related items
+- Risk Register (Table)
+- Safety Budget Allocation
+- Training Plan Matrix

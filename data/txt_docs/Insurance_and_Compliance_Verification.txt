@@ -1,0 +1,33 @@
+Title: Insurance & Compliance Verification
+Path: Project > Preconstruction > Trade Partner Qualification > Insurance & Compliance Verification
+Node type: Topic / Deliverable
+Parent: Trade Partner Qualification
+
+Overview
+Validates insurance coverage, licenses, registrations, and regulatory compliance status before mobilization.
+
+Typical data / fields
+- policy types and limits
+- certificate and endorsement dates
+- licenses and registrations
+- regulatory filings
+- expiration dates
+- verification outcome
+
+Primary owners
+- Procurement lead
+- Preconstruction manager
+- Safety director
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Safety Prequalification Review
+- EMR & Incident History Review
+- Corrective Action Review

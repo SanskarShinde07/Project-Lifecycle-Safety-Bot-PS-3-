@@ -1,0 +1,35 @@
+Title: Documentation & Archiving
+Path: Project > Closeout > Documentation & Archiving
+Node type: Workstream
+Parent: Closeout
+
+Overview
+Organizes the final safety records needed for handover, warranty support, operations, and regulatory retention.
+
+Included topics
+- As-Built Safety Documentation
+- Warranty Safety Obligations
+- O&M Safety Manuals
+- Regulatory Closeout Submissions
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Document control lead
+- Project manager
+- Project safety manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- As-Built Safety Documentation
+- Warranty Safety Obligations
+- O&M Safety Manuals
+- Regulatory Closeout Submissions

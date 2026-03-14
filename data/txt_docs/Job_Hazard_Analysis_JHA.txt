@@ -1,0 +1,33 @@
+Title: Job Hazard Analysis (JHA)
+Path: Project > Construction > Daily & Short-Term Planning > Job Hazard Analysis (JHA)
+Node type: Topic / Deliverable
+Parent: Daily & Short-Term Planning
+
+Overview
+Breaks a job into steps and assigns hazards and controls to each step before work proceeds.
+
+Typical data / fields
+- job steps
+- hazards by step
+- controls
+- PPE and tools
+- responsible person
+- review date and crew acknowledgement
+
+Primary owners
+- Foremen
+- Superintendent
+- Safety coordinator
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- review findings
+- action list
+- approval or sign-off
+
+Related items
+- Pre-Task Plans
+- Daily Huddles
+- Permit to Work

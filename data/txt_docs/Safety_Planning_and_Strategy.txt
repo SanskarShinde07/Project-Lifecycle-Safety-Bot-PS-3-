@@ -1,0 +1,35 @@
+Title: Safety Planning & Strategy
+Path: Project > Preconstruction > Safety Planning & Strategy
+Node type: Workstream
+Parent: Preconstruction
+
+Overview
+Establishes the project safety framework, emergency arrangements, environmental controls, and site logistics risk assumptions.
+
+Included topics
+- Site-Specific Safety Plan
+- Emergency Response Planning
+- Environmental Risk Assessment
+- Logistics Risk Modeling
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project safety lead
+- Project manager
+- Superintendent
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- Site-Specific Safety Plan
+- Emergency Response Planning
+- Environmental Risk Assessment
+- Logistics Risk Modeling

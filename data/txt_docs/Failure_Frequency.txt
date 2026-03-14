@@ -1,0 +1,33 @@
+Title: Failure Frequency
+Path: Project > Maintenance > Lifecycle Safety Metrics > Failure Frequency
+Node type: Topic / Deliverable
+Parent: Lifecycle Safety Metrics
+
+Overview
+Rate at which safety-critical or high-impact assets fail over a defined period.
+
+Typical data / fields
+- asset class
+- failure count
+- operating hours
+- failure rate
+- downtime
+- recurring cause
+
+Primary owners
+- Reliability engineer
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Asset Risk Index
+- Maintenance Compliance %
+- Warranty Claim Trends

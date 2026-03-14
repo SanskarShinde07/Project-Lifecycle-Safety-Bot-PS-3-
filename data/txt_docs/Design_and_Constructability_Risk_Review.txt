@@ -1,0 +1,35 @@
+Title: Design & Constructability Risk Review
+Path: Project > Preconstruction > Design & Constructability Risk Review
+Node type: Workstream
+Parent: Preconstruction
+
+Overview
+Reviews design and work methods to eliminate hazards, identify high-risk scopes, and plan temporary works.
+
+Included topics
+- High-Risk Scope Identification
+- Temporary Works Risk Planning
+- Crane & Hoisting Strategy
+- Hazard Elimination Workshops
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Design manager
+- Operations representative
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- High-Risk Scope Identification
+- Temporary Works Risk Planning
+- Crane & Hoisting Strategy
+- Hazard Elimination Workshops

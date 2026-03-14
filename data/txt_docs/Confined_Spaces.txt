@@ -1,0 +1,33 @@
+Title: Confined Spaces
+Path: Project > Maintenance > Asset-Based Safety Controls > Confined Spaces
+Node type: Topic / Deliverable
+Parent: Asset-Based Safety Controls
+
+Overview
+Defines operating controls for tanks, pits, vaults, and other enclosed spaces requiring ongoing entry management.
+
+Typical data / fields
+- space ID
+- classification
+- fixed hazards
+- entry prerequisites
+- monitoring needs
+- rescue equipment and authorization
+
+Primary owners
+- Facility manager
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Mechanical Systems
+- Electrical Systems
+- Roof Access Systems

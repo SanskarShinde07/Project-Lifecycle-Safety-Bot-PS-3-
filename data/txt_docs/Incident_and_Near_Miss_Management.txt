@@ -1,0 +1,35 @@
+Title: Incident & Near-Miss Management
+Path: Project > Construction > Incident & Near-Miss Management
+Node type: Workstream
+Parent: Construction
+
+Overview
+Captures events, investigates causes, assigns corrective actions, and preserves lessons learned.
+
+Included topics
+- Incident Reports
+- Root Cause Analysis
+- Corrective Action Plans
+- Lessons Learned Repository
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Project safety manager
+- Project leadership
+- Supervisors
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- Incident Reports
+- Root Cause Analysis
+- Corrective Action Plans
+- Lessons Learned Repository

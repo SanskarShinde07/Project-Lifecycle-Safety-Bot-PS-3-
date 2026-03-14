@@ -1,0 +1,35 @@
+Title: Lifecycle Safety Metrics
+Path: Project > Maintenance > Lifecycle Safety Metrics
+Node type: Workstream
+Parent: Maintenance
+
+Overview
+Measures asset risk, maintenance compliance, failures, and warranty trends over the life of the facility.
+
+Included topics
+- Asset Risk Index
+- Maintenance Compliance %
+- Failure Frequency
+- Warranty Claim Trends
+
+Typical data / fields
+- workstream owner
+- scope summary
+- review cadence
+- open actions
+- linked child deliverables
+- completion status
+
+Primary owners
+- Reliability engineer
+- Maintenance manager
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- Asset Risk Index
+- Maintenance Compliance %
+- Failure Frequency
+- Warranty Claim Trends

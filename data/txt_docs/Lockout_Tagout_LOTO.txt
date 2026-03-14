@@ -1,0 +1,33 @@
+Title: Lockout/Tagout (LOTO)
+Path: Project > Maintenance > Preventive Maintenance Safety > Lockout/Tagout (LOTO)
+Node type: Topic / Deliverable
+Parent: Preventive Maintenance Safety
+
+Overview
+Energy isolation process used before servicing or repair to prevent unexpected startup or release.
+
+Typical data / fields
+- equipment ID
+- energy sources
+- lock points
+- zero-energy verification
+- authorized employees
+- restoration steps
+
+Primary owners
+- Maintenance supervisor
+- Operations supervisor
+- EHS lead
+
+When it is used or reviewed
+Used during routine operations, task execution, scheduled maintenance cycles, and periodic audits.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Permit to Work (Ops)
+- Access Control Logs
+- Maintenance JHA

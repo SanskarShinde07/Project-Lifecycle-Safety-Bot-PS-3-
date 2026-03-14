@@ -1,0 +1,33 @@
+Title: Temporary Works Risk Planning
+Path: Project > Preconstruction > Design & Constructability Risk Review > Temporary Works Risk Planning
+Node type: Topic / Deliverable
+Parent: Design & Constructability Risk Review
+
+Overview
+Plans risks for temporary structures and systems such as shoring, formwork, falsework, and access platforms.
+
+Typical data / fields
+- temporary works item
+- design basis and load assumptions
+- engineer of record
+- inspection and hold points
+- permit needs
+- erection and removal plan
+
+Primary owners
+- Design manager
+- Operations representative
+- Safety lead
+
+When it is used or reviewed
+Prepared before mobilization and revisited whenever design assumptions, site constraints, or scope change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- High-Risk Scope Identification
+- Crane & Hoisting Strategy
+- Hazard Elimination Workshops

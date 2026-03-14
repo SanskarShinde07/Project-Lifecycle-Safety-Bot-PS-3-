@@ -1,0 +1,33 @@
+Title: Improvement Recommendations
+Path: Project > Closeout > Performance Evaluation > Improvement Recommendations
+Node type: Topic / Deliverable
+Parent: Performance Evaluation
+
+Overview
+Prioritized suggestions to improve standards, planning, training, and controls on future projects.
+
+Typical data / fields
+- recommendation
+- rationale
+- priority
+- responsible function
+- implementation horizon
+- expected benefit
+
+Primary owners
+- Project executive
+- Safety director
+- Project manager
+
+When it is used or reviewed
+Updated during final work, demobilization, startup, testing, and handover activities.
+
+Common outputs / evidence
+- completed record
+- required approvals
+- follow-up actions
+
+Related items
+- Final Incident Summary
+- Safety Performance Scorecard
+- Root Cause Trend Analysis

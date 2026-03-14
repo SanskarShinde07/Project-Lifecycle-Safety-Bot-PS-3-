@@ -1,0 +1,33 @@
+Title: Pre-Task Plans
+Path: Project > Construction > Daily & Short-Term Planning > Pre-Task Plans
+Node type: Topic / Deliverable
+Parent: Daily & Short-Term Planning
+
+Overview
+Defines task scope, crew, hazards, controls, and resources immediately before work begins.
+
+Typical data / fields
+- task description
+- crew list
+- hazards
+- controls
+- equipment and PPE
+- stop-work triggers and sign-off
+
+Primary owners
+- Foremen
+- Superintendent
+- Safety coordinator
+
+When it is used or reviewed
+Reviewed daily to weekly and revised whenever field conditions, sequencing, or crews change.
+
+Common outputs / evidence
+- approved plan or strategy
+- revision history
+- communication or sign-off record
+
+Related items
+- Daily Huddles
+- Job Hazard Analysis (JHA)
+- Permit to Work
